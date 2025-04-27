@@ -1,0 +1,27 @@
+
+
+  @font-face {
+    font-family: 'YouSheBiaoTiHei';
+    font-style: normal;
+    font-weight: normal;
+    src: url('YouSheBiaoTiHei-2.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: Source Han Sans;
+    font-weight: normal;
+    font-display: block;
+    src: url("./SourceHanSansCN-Regular.otf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: Source Han Sans;
+    font-weight: bold;
+    font-display: block;
+    src: url("./SourceHanSansCN-Bold.otf") format("truetype");
+  }
+  @font-face {
+    font-family: DingTalk JinBuTi;
+    font-weight: bold;
+    font-display: block;
+    src: url("./DingTalkJinBuTi.ttf") format("truetype");
+  }

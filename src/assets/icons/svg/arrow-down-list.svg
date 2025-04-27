@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="master_svg0_433_42920/433_43671">
+      <rect x="0" y="0" width="18" height="18" rx="0"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#master_svg0_433_42920/433_43671)">
+    <g transform="matrix(1,0,0,-1,0,24)">
+      <path d="M9,12L15,18L3,18L9,12Z" fill="#24CA49" fill-opacity="1"/>
+    </g>
+  </g>
+</svg>

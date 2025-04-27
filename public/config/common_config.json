@@ -1,0 +1,8 @@
+{
+  "common_shortcut_keys":[
+  {"name":"Ctrl+Alt+Delete", "value": ["65507", "65513", "65535"]},
+  {"name":"Window+D", "value": ["65515", "100"]},
+  {"name":"Window+E", "value": ["65515", "101"]},
+  {"name":"Window+R", "value": ["65515", "114"]},
+  {"name":"Window", "value": ["65515"]}]
+}

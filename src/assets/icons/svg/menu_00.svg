@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill=""
+  version="1.1" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="master_svg0_326_38206/326_36097">
+      <rect x="0" y="0" width="24" height="24" rx="0" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#master_svg0_326_38206/326_36097)">
+    <g>
+      <path
+        d="M2.388041,8.97354C1.871481,8.80135,1.866533,8.52328,2.3979369999999998,8.34614L21.286,2.0504427C21.8095,1.876277,22.1094,2.169192,21.9629,2.681794L16.5657,21.5689C16.417299999999997,22.0924,16.1155,22.1102,15.8938,21.6134L12.3373,13.6097L18.2747,5.69308L10.35811,11.63056L2.388041,8.97354Z"
+        fill="" fill-opacity="1" style="mix-blend-mode:passthrough" />
+    </g>
+  </g>
+</svg>

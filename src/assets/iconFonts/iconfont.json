@@ -1,0 +1,30 @@
+{
+  "id": "4895999",
+  "name": "SimulationPlat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "CTC仿真实训系统",
+  "glyphs": [
+    {
+      "icon_id": "1227732",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "44047510",
+      "name": "arrow",
+      "font_class": "arrow-up",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "36737907",
+      "name": "arrow-rise",
+      "font_class": "arrow-rise",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    }
+  ]
+}
